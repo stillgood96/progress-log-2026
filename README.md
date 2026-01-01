@@ -7,7 +7,10 @@
 
 ## 🎯 2026 Big Goals
 
-### 1. Learning & Growth
+### 1. Career
+- [ ] 안정적이고 보다 더 나은 조건으로의 이직 
+
+### 2. Learning & Growth
 - [ ] 토익 스피킹 Level 7 취득
 - [ ] 정보처리기사 취득
 - [ ] RAG 공부
