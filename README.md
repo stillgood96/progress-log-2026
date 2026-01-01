@@ -1,2 +1,21 @@
-# progress-log-2026
-show up every day, even when motivation is gone.
+# 2026 Growth Tracker
+
+2026년 한 해 동안  
+내가 어떤 방향으로 성장하고 싶은지 기록하기 위한 공간.
+
+---
+
+## 🎯 2026 Big Goals
+
+### 1. Learning & Growth
+- [ ] 토익 스피킹 Level 7 취득
+- [ ] 정보처리기사 취득
+- [ ] RAG 공부
+- [ ] 인프런 구매한 강의 완강
+
+---
+
+
+## 📌 Notes
+- 이 문서는 **완벽함보다 지속성**을 목표로 한다
+- 세부 계획은 필요해질 때 추가한다
